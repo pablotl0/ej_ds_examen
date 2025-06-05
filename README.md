@@ -12,7 +12,7 @@ Esta API implementa un backend para gestionar cuentas bancarias y transacciones,
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/pablotl0/ej_ds_examen.git
 cd bank_api
 ```
 
